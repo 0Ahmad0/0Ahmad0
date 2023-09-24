@@ -1,5 +1,5 @@
 
-<img  alt="Coding" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif"/>
+<img  alt="Coding" height="200" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif"/>
 
 <h1 align = "center">Hi 🥷, I'm Ahmad Alhariri</h1>
 <h3 align = "center">Software Engineer | Flutter Devloper | Mobile Application Devloper</h3>
