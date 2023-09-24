@@ -1,6 +1,9 @@
 <h1 align = "center">Hi 🥷, I'm Ahmad Alhariri</h1>
 <h3 align = "center">Software Engineer | Flutter Devloper | Mobile Application Devloper</h3>
 
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.32b6c73bf485851ea0269dbd6cc76138?rik=yoVaXH%2bdEm%2bg7w&pid=ImgRaw&r=0"/>
+
+
 # 💫 About Me:
 🔭 I’m currently working as Freelancer<br>👯 I’m looking to collaborate on Software testing<br>🤝 I’m looking for help with developing Mobile Apps <br>🌱 I’m currently learning ReactJS <br>💬 Ask me about Software Engineering || MOBILE Devlopment || Flutter || C++ || Java  <br>⚡ Fun fact Iam Lazy but smart
 
