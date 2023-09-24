@@ -4,7 +4,7 @@
 <h1 align = "center">Hi 🥷, I'm Ahmad Alhariri</h1>
 <h3 align = "center">Software Engineer | Flutter Devloper | Mobile Application Devloper</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0xemlubjJhdXJzZmlkOXBkcnY5NXh4cW9kMDVmbzI2a2NrY204cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/4sZjohRLVUZqD4W4XD/giphy.gif"/>
 
 
 # 💫 About Me:
