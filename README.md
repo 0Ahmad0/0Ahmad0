@@ -19,6 +19,7 @@
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-fc6d26?style=for-the-badge&logo=firebase&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
