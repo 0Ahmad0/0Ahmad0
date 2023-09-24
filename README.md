@@ -1,6 +1,8 @@
+<p align="center">
+  
+<img align = "center"  alt="Coding" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhvMWJ4NjI2MW84b3hrdDYyYTFuMTFidXBuc3V0cW93dWhsdGw2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ga6sxcIUKhNlkrmiQl/giphy.gif"/>
 
-<center><img align = "center"  alt="Coding" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhvMWJ4NjI2MW84b3hrdDYyYTFuMTFidXBuc3V0cW93dWhsdGw2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ga6sxcIUKhNlkrmiQl/giphy.gif"/>
-</center>
+</p>
 <h1 align = "center">Hi 🥷, I'm Ahmad Alhariri</h1>
 <h3 align = "center">Software Engineer | Flutter Devloper | Mobile Application Devloper</h3>
 
