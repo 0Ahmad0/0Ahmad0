@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadhariri) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AhmadAl45892861) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366F2.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+963954872922) 
-[![Telegram](https://img.shields.io/badge/Telegram-%0088ccF2.svg?logo=Telegram&logoColor=white)](https://t.me/Ahmad_Alhariri) 
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Ahmad_Alhariri) 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
