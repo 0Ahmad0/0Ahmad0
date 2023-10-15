@@ -1,5 +1,5 @@
 <p align="center">
-<img align = "center"  alt="Coding" src="https://media4.giphy.com/media/gyp6z8vqkT9rni2hTj/giphy.webp?cid=6c09b952ah2vtopgwbefmqr8rk6js4ch2dhfujbs7zhq4u7u&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g"/>
+<img align = "center"  width="100%" alt="Coding" src="https://media4.giphy.com/media/gyp6z8vqkT9rni2hTj/giphy.webp?cid=6c09b952ah2vtopgwbefmqr8rk6js4ch2dhfujbs7zhq4u7u&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g"/>
 <p></p>
 <img 
   width="100%" src="https://img.shields.io/badge/Stand_With_Palestine-%F0%9F%87%B5%F0%9F%87%B8-white"/>
