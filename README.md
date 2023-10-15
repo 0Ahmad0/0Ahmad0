@@ -1,6 +1,6 @@
 <p align="center">
 <img align = "center"  alt="Coding" src="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Palestine_240-animated-flag-gifs.gif"/>
-![]https://img.shields.io/badge/Stand_With_Palestine-%F0%9F%87%B5%F0%9F%87%B8-white
+
 <img align = "center"  alt="Coding" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhvMWJ4NjI2MW84b3hrdDYyYTFuMTFidXBuc3V0cW93dWhsdGw2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ga6sxcIUKhNlkrmiQl/giphy.gif"/>
 
 </p>
