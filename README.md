@@ -34,7 +34,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
 
 <!-- ==================== HERO ==================== -->
 <div align="left">
@@ -290,14 +289,6 @@ class AhmadAlhariri extends FlutterEngineer {
 
 ---
 
-## 🏆 Hall of Fame
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0Ahmad0&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies" />
-</div>
-
----
-
 ## 💭 Wisdom
 
 <div align="center">
@@ -340,10 +331,6 @@ class AhmadAlhariri extends FlutterEngineer {
 
 <br />
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
   
   <br />
@@ -360,17 +347,10 @@ class AhmadAlhariri extends FlutterEngineer {
   <img src="https://img.shields.io/badge/Free_Palestine_%F0%9F%87%B5%F0%9F%87%B8-white?style=for-the-badge&labelColor=black" />
   &nbsp;
   <img src="https://img.shields.io/badge/Proudly_Syrian_%F0%9F%87%B8%F0%9F%87%BE-%23CE1126?style=for-the-badge&labelColor=white&color=%23007A3D" />
-
-  <br /><br />
-
-  <sub>Last updated: 2024 • Building Waatheq • One commit at a time</sub>
   
   <br />
   
 </div>
-
----
-
 <!-- 
   ╔══════════════════════════════════════════════╗
   ║                                              ║
